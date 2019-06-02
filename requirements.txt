@@ -1,0 +1,5 @@
+Appium-Python-Client
+mitmproxy
+requests
+selenium
+sqlalchemy
